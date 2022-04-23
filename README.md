@@ -1,2 +1,3 @@
-# react-spring-app
-EMT 2021/22. Lab exercise. 193041
+# Server-side app with Spring Boot & client-side app with React
+Lab exercise
+193041
